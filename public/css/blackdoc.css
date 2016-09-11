@@ -28,6 +28,7 @@ ______ _            _   ______
  *
  * Update the foundational and global aspects of the page.
  */
+@import 'https://fonts.googleapis.com/css?family=PT+Sans';
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -52,7 +53,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-  color: #ffeb99;
+  color: #f4c6e4;
   transition: color ease 0.3s;
 }
 
