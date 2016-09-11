@@ -29,6 +29,7 @@ ______ _            _   ______
  * Update the foundational and global aspects of the page.
  */
 @import 'https://fonts.googleapis.com/css?family=PT+Sans';
+@import 'https://fonts.googleapis.com/css?family=EB+Garamond';
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
